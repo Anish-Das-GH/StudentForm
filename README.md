@@ -2,4 +2,7 @@
 
 
 This is my first website.
-i'm learning css now i will keep updating this site.
+I'm learning css now i will keep updating this site.
+
+
+## Site Version 1.0 
